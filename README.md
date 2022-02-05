@@ -5,13 +5,13 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 <p align="center">
-    <a href="https://github.com/elkrien/plank/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/elkrien/plank?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
-    <a href="https://github.com/elkrien/plank/issues"><img src="https://img.shields.io/github/issues/elkrien/plank?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/elkrien/plank/contributors"><img src="https://img.shields.io/github/contributors/elkrien/plank?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/plank/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/catppuccin/plank?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+    <a href="https://github.com/catppuccin/plank/issues"><img src="https://img.shields.io/github/issues/catppuccin/plank?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/plank/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/plank?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elkrien/plank/main/assets/cat-plank.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/plank/main/assets/cat-plank.png"/>
 </p>
 
 
