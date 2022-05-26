@@ -18,17 +18,17 @@
 ## Usage
 
 1. Clone this repository locally.
-2. Copy the selected theme to `/usr/share/plank/themes`:
-    - Catppuccin-solid
-    - Catppuccin
-<p align="center">
-  <img src="assets/cat-plank-themes.png"/>
-</p>
-
+2. Copy the selected theme from `src` to `/usr/share/plank/themes`:
+    - 🐑 Catppuccin-latte
+    - 🦦 Catppuccin-frappe
+    - 🌺 Catppuccin-macchiato
+    - 🌿 Catppuccin-mocha
 3. Place the cursor on any icon in Plank dock, press "ctrl + right click" and select Preferences.
 4. Choose the selected theme from the list.
 
 ## 💝 Thanks to
+
+-   [elkrien](https://github.com/elkrien)
 
 &nbsp;
 
