@@ -19,8 +19,8 @@
 
 1. Clone this repository locally.
 2. Copy the selected theme from `src` to `/usr/share/plank/themes`:
-    - 🐑 Catppuccin-latte
-    - 🦦 Catppuccin-frappe
+    - 🌻 Catppuccin-latte
+    - 🪴 Catppuccin-frappe
     - 🌺 Catppuccin-macchiato
     - 🌿 Catppuccin-mocha
 3. Place the cursor on any icon in Plank dock, press "ctrl + right click" and select Preferences.
