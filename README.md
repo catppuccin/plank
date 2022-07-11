@@ -11,20 +11,20 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/plank/main/assets/cat-plank.png"/>
+  <img src="assets/cat-plank.png"/>
 </p>
 
 
 ## Usage
 
-1. Clone this repository locally.
+1. Clone this repository locally
 2. Copy the selected theme from `src` to `/usr/share/plank/themes`:
     - 🌻 Catppuccin-latte
     - 🪴 Catppuccin-frappe
     - 🌺 Catppuccin-macchiato
     - 🌿 Catppuccin-mocha
-3. Place the cursor on any icon in Plank dock, press "ctrl + right click" and select Preferences.
-4. Choose the selected theme from the list.
+3. Place the cursor on any icon in Plank dock, press "ctrl + right click" and select Preferences
+4. Choose the selected theme from the list
 
 ## 💝 Thanks to
 
