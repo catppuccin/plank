@@ -37,7 +37,7 @@
 ## Usage
 
 1. Clone this repository locally
-2. Copy the selected theme from `src` to `/usr/share/plank/themes`:
+2. Copy the selected theme from `src` to `~/.local/share/plank/themes`:
     - 🌻 Catppuccin-latte
     - 🪴 Catppuccin-frappe
     - 🌺 Catppuccin-macchiato
