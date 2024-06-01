@@ -33,21 +33,15 @@
   <img src="https://raw.githubusercontent.com/catppuccin/plank/main/assets/plank-mocha.png"/>
 </details>
 
-
 ## Usage
 
-1. Clone this repository locally
-2. Copy the selected theme from `src` to `~/.local/share/plank/themes`:
-    - 🌻 Catppuccin-latte
-    - 🪴 Catppuccin-frappe
-    - 🌺 Catppuccin-macchiato
-    - 🌿 Catppuccin-mocha
-3. Place the cursor on any icon in Plank dock, press "ctrl + right click" and select Preferences
-4. Choose the selected theme from the list
+1. Copy your preferred flavor(s) from [`src/`](./src/) to `~/.local/share/plank/themes/`.
+2. Place your cursor on any icon in the Plank dock, press <kbd>Ctrl</kbd> + <kbd>Right-Click</kbd>, and select **Preferences**.
+3. Choose your flavor from the list!
 
 ## 💝 Thanks to
 
--   [elkrien](https://github.com/elkrien)
+- [elkrien](https://github.com/elkrien)
 
 &nbsp;
 
